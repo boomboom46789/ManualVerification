@@ -12,25 +12,25 @@
     },
 
     "info": {
-        "guildID": "",
-        "channelID": "",
-        "includeBanButton": true/false
+        "guildID": "612383877117378561",
+        "channelID": "735604677693145208",
+        "includeBanButton": true
     },
 
     "verified": {
-        "notifyUser": true/false,
-        "setNickname": true/false,
-        "setRole": true/false,
+        "notifyUser": true,
+        "setNickname": true,
+        "setRole": true,
 
-        "roleID": "",
-        "nicknamePrefix": ""
+        "roleID": "718617749974417459",
+        "nicknamePrefix": ";"
     },
 
     "colours": {
-        "verificationEmbed": "",
-        "invalidVerificationEmbed": "",
-        "acceptedEmbed": "",
-        "declinedEmbed": "",
-        "banEmbed": ""
+        "verificationEmbed": "#05b2fc",
+        "invalidVerificationEmbed": "#e8fc05",
+        "acceptedEmbed": "#0dfc05",
+        "declinedEmbed": "#fc0505",
+        "banEmbed": "#8a0c0c"
     }
 }
